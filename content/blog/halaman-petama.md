@@ -1,6 +1,6 @@
 ---
 external: false
-title: HALAMAN PERTAMA part 2 - html
+title: 2. HALAMAN PERTAMA - html series
 description: html.
 date: 2023-12-04
 ---
